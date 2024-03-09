@@ -5,4 +5,4 @@ A simple npm package for greeting people free.
 ## Installation
 
 ```bash
-npm install greetingfriends
+npm install greetingpeoplefree
